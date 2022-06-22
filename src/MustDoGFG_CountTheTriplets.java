@@ -6,7 +6,7 @@ public class MustDoGFG_CountTheTriplets {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the number of element of the array");
+        System.out.println("Enter the number of element of the arra");
 
         int n = sc.nextInt();
 
